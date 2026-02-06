@@ -1,0 +1,8 @@
+lib/
+ ├─ main.dart
+ ├─ screens/
+ │   ├─ login_screen.dart
+ │   ├─ shooter_profile_screen.dart
+ │   └─ result_screen.dart
+ └─ models/
+     └─ shooter.dart
